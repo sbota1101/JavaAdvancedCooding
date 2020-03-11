@@ -1,0 +1,16 @@
+MotorcycleBrandHondaModelCBR1000Price15000
+TopSpeed280
+MotorCycleShapeCHOPPER
+
+MotorcycleBrandBMWModelR1200Price12000
+TopSpeed250
+MotorCycleShapeCRUISER
+
+MotorcycleBrandYamahaModelZ300Price11000
+TopSpeed230
+MotorCycleShapeCHOPPER
+
+MotorcycleBrandHondaModelNC750Price8000
+TopSpeed200
+MotorCycleShapeENDURO
+

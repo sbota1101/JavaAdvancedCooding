@@ -1,0 +1,6 @@
+Georgiana Radoi 18 true true
+Ioana Masca 36 true false
+Vasile Pablo 30 false true
+Ion Creanga 20 true false
+Ioana Virus 25 false true
+Claudia Masca 36 true false

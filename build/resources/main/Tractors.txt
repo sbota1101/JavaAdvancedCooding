@@ -1,0 +1,6 @@
+TractorBrandBMWModelP180Price28000
+ MaxPulledWeight 3500
+TractorBrandJohn DeerModelT200Price31000
+ MaxPulledWeight 5000
+TractorBrandFerarriModelX23Price0
+ MaxPulledWeight 2000
