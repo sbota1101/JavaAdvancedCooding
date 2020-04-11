@@ -2,7 +2,7 @@ package ProblemaSDA1;
 
 import java.util.List;
 
-
+//https://www.linkedin.com/in/bota-sorina-georgiana-81136891/
 /*Manually initialize 15 students; 4 groups and 3 trainers;
 1.Store all students in a list; all groups in a list; all trainers in a list;
 2.Asign a trainer to each group
